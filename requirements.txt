@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+wordcloud
+joblib
+streamlit
+SpeechRecognition
+streamlit-mic-recorder
+opencv-python-headless
+mediapipe
